@@ -1,10 +1,10 @@
-package com.example.project_revival;
+package com.project.revival;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProjectRevivalApplicationTests {
+class RevivalApplicationTests {
 
 	@Test
 	void contextLoads() {
